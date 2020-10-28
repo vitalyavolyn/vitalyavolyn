@@ -9,7 +9,7 @@
 <p><a href="https://vk.com/githubbot">GitHub Events Bot</a> (340 пользователей)</p>
 </li>
 <li>
-<p><a href="https://vk.com/moodapp">Трекер Настроения</a> (1,351,548 пользователей)</p>
+<p><a href="https://vk.com/moodapp">Трекер Настроения</a> (1,351,549 пользователей)</p>
 </li>
 <li>
 <p><a href="https://vk.com/app7272727">Watchy - Дневник киномана</a> (43,045 пользователей)</p>
