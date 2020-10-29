@@ -16,7 +16,7 @@
 </li>
 </ul>
 <h2>🛠️ Чем пользуюсь</h2>
-<p>Git, JavaScript, Node.JS, MongoDB, PHP, Linux.</p>
+<p>Git, JavaScript, Node.JS, Docker, MongoDB, PHP, Linux.</p>
 <h2>🌏 Где меня найти</h2>
 <p><a href="https://vk.com/vitalyavolyn">ВКонтакте</a>, <a href="https://t.me/vitalyavolyn">Telegram</a>, <a href="https://github.com/vitalyavolyn">GitHub</a>, <a href="https://keybase.io/vitalyavolyn">Keybase</a>, <a href="mailto:i@vitalya.me">i@vitalya.me</a>.</p>
 
