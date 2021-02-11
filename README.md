@@ -9,14 +9,14 @@
 <p><a href="https://vk.com/githubbot">GitHub Events Bot</a> (435 пользователей)</p>
 </li>
 <li>
-<p><a href="https://vk.com/moodapp">Трекер Настроения</a> (1 357 164 пользователей)</p>
+<p><a href="https://vk.com/moodapp">Трекер Настроения</a> (1 357 410 пользователей)</p>
 </li>
 <li>
-<p><a href="https://vk.com/app7272727">Watchy - Дневник киномана</a> (47 754 пользователей)</p>
+<p><a href="https://vk.com/app7272727">Watchy - Дневник киномана</a> (48 113 пользователей)</p>
 </li>
 </ul>
 <h2>🛠️ Чем пользуюсь</h2>
-<p>Git, JavaScript, Node.JS, Docker, MongoDB, PHP, Linux.</p>
+<p>Git, JavaScript, Node.js, Docker, MongoDB, PHP, Dart, Linux.</p>
 <h2>🌏 Где меня найти</h2>
 <p><a href="https://vk.com/vitalyavolyn">ВКонтакте</a>, <a href="https://t.me/vitalyavolyn">Telegram</a>, <a href="https://github.com/vitalyavolyn">GitHub</a>, <a href="https://keybase.io/vitalyavolyn">Keybase</a>, <a href="mailto:i@vitalya.me">i@vitalya.me</a>.</p>
 
