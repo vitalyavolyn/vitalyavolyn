@@ -6,10 +6,10 @@
 <p>a list of some of my active projects:</p>
 <ul>
 <li>
-<p><a href="https://vk.com/githubbot">GitHub Events Bot</a> (822 users)</p>
+<p><a href="https://vk.com/githubbot">GitHub Events Bot</a> (825 users)</p>
 </li>
 <li>
-<p><a href="https://vk.com/moodapp">Трекер Настроения (mood tracker)</a> (2 137 762 users)</p>
+<p><a href="https://vk.com/moodapp">Трекер Настроения (mood tracker)</a> (2 138 682 users)</p>
 </li>
 </ul>
 <h2>🛠️ what do i use?</h2>
