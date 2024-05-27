@@ -9,7 +9,7 @@
 <p><a href="https://vk.com/githubbot">GitHub Events Bot</a> (827 users)</p>
 </li>
 <li>
-<p><a href="https://vk.com/moodapp">Трекер Настроения (mood tracker)</a> (2 141 852 users)</p>
+<p><a href="https://vk.com/moodapp">Трекер Настроения (mood tracker)</a> (2 142 953 users)</p>
 </li>
 </ul>
 <h2>🛠️ what do i use?</h2>
