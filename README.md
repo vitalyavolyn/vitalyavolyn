@@ -6,7 +6,7 @@
 <p>i've made some mini apps, chat bots and other random stuff that's scattered throughout my github/gist</p>
 <h2>tools</h2>
 <p>i like to work with:
-typescript, node.js/bun, nixos.</p>
+typescript, node.js/bun, nixos</p>
 <h2>links</h2>
-<p><a href="https://t.me/vitalyavolyn">telegram</a>, <a href="https://github.com/vitalyavolyn">github</a>, <a href="https://bsky.app/profile/vitalya.me">bsky</a>.</p>
+<p><a href="https://t.me/vitalyavolyn">telegram</a>, <a href="https://github.com/vitalyavolyn">github</a>, <a href="https://bsky.app/profile/vitalya.me">bsky</a></p>
 
